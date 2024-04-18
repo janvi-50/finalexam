@@ -1,0 +1,86 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #87CEEB; /* Sky blue background */
+    color: black;
+    padding: 20px;
+    text-align: left;
+    float: left;
+}
+
+
+
+h1, h2 {
+    background-color: white; /* White background for headings */
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px ; /* Black border for headings */
+}
+
+h1 {
+    color: rgb(40, 37, 37); /* Red color for h1 */
+    margin: auto;
+    width: 200;
+}
+
+h2 {
+    color: black; /* Black color for h2 */
+    margin: auto;
+    width: 200;
+    
+}
+
+#intro {
+    margin-bottom: 20px;
+}
+
+.special {
+    background-color: white; /* White background for special h2 */
+    color: black; /* Black color for special h2 */
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.box {
+    width: 500px; /* Set width of the box */
+    padding: 20px; /* Add padding inside the box */
+    border: 2px ; /* Add a border around the box */
+    margin: auto; /* Center the box horizontally */
+    text-align: left;
+    background-color: white;
+    float: left;
+    margin-bottom: 20px;
+    
+}
+.header{
+    float: left;
+width: 500px;
+padding: 20px;
+}
+.footer{
+    float: left;
+    background-color: white;
+    width: 500px;
+    padding: 20px;
+}
+.box2{
+    width:150;
+    padding: 20px;
+    margin: auto;
+    float: left;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.p1{
+    color: black;
+    background-color: lightyellow;
+    background-origin: padding-box;
+    border: 2px dashed #131413; /* 2-pixel wide dashed green border */
+    text-transform: lowercase;
+
+    
+}
+.aw{
+    color: red;
+}
+.h2{
+    font-style: italic;
+}
